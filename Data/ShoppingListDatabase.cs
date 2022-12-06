@@ -43,5 +43,6 @@ namespace Treitel_Sorina_Lab7.Data
         {
             return _database.DeleteAsync(slist);
         }
+
     }
 }
